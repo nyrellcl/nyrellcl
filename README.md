@@ -15,7 +15,7 @@ I really valued the concept of learn by doing, therefore I decided if I were to 
 - TypeScript: This is a super-set of JavaScript. This allows for developers to explicitly add types to JavaScript. This prevents further errors especially in large projects.
 - React: A JavaScript library created by Meta. This is a component based library developers use to create scalable and solid User Interfaces quickly and efficiently
 - Visual Studio Code: A code editor created and maintained by Microsoft. A great tool for developers to write their code and create projects
-- Git: A distributed version control systems. This allows for developers to make changes to their code and track it throught the life-cycle of a project. Especially important when working with large codebases.
+- Git: A distributed version control system. This allows for developers to make changes to their code and track it throught the life-cycle of a project. Especially important when working with large codebases.
 
 ## I’m currently working on 🔭 
 
